@@ -7,4 +7,5 @@ Coded by - Basant [Alpha X]
 version 0.0.1    [7 Oct 2025]
 version 0.0.2    [comming soon]
 # Description 
-This repository is under maintenance it will be available publicly soon
+> With this simple tool you can store your passwords in it, it can store maximum 10 passwords, but soon will be changed to millions
+
